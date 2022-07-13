@@ -31,10 +31,10 @@
     text-transform: capitalize;
   }
   nav ul li a.active {
-    color: #491f8f;
+    color: rgba(255, 93, 6, 0.886);
   }
   ul li a:hover {
-    color: #491f8f;
+    color: rgba(255, 93, 6, 0.886);
     transition: 0.5s;
   }
 .home{
